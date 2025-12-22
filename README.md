@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Mayur Kale</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate GoLang Backend Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurkalerk&label=Profile%20views&color=0e75b6&style=flat" alt="mayurkalerk" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **mayurkale8011@gmail.com**
 
