@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurkalerk&label=Profile%20views&color=0e75b6&style=flat" alt="mayurkalerk" /> </p>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently **GoLang Developer**
 
 - 📫 How to reach me **mayurkale8011@gmail.com**
 
